@@ -1,5 +1,9 @@
-# **Theme Name**
+# Left menu theme component
 
-**Theme Summary**
+Small theme component to rearrange the left-most header menu to be on the left side of the screen
 
-For more information, please see: **url to meta topic**
+## Install
+
+See [installing a theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682).
+
+Once installed, apply the theme component to a site's theme.
