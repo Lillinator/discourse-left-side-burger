@@ -71,4 +71,14 @@
       max-width: unset;
     }
   }
+
+  @if ($center_logo == 'true') {
+    .d-header:not(:has(.extra-info-wrapper.topic-info-visible)):not(:has(.extra-info-wrapper .topic-link)):not(.header-topic-info-visible) .title {
+      position: absolute;
+      //left: 50%;
+      //top: 50%;
+      //transform: translate(-50%, -50%);
+      //margin: 0;
+    }
+  }
 }
