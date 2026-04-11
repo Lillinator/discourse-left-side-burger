@@ -1,4 +1,4 @@
-# Left menu theme component
+# Discourse left side hamburger menu theme component
 
 Small theme component to move the hamburger menu bars icon to the left side in mobile, and allow the site logo to be centered. 
 
