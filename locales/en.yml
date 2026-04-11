@@ -1,5 +1,3 @@
 en:
   theme_metadata:
-    description: "TODO"
-    settings:
-      example_setting: "A description of a setting."
+    description: "Move the hamburger menu bars icon to the left side and allow logo centring in header"
