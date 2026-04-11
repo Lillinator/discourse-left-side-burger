@@ -1,4 +1,4 @@
 center_logo:
   type: bool
   default: false
-  description: 'centre the logo on mobile header'
+  description: 'Centre the forum logo on mobile header'
