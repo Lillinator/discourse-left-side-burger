@@ -1,13 +1,11 @@
 # Left menu theme component
 
-Small theme component to rearrange the left-most header menu to be on the left side of the screen
+Small theme component to move the hamburger menu bars icon to the left side in mobile, and allow the site logo to be centered. 
 
-<img src="https://github.com/user-attachments/assets/a1b458f9-860e-41a6-8c03-ca164da44ea8" width=50%>
+<img src="https://github.com/user-attachments/assets/a1b458f9-860e-41a6-8c03-ca164da44ea8" width=60%>
 
-See: https://meta.discourse.org/t/left-side-hamburger-menu-on-mobile/164513
+For more info, see: https://meta.discourse.org/t/left-side-hamburger-menu-on-mobile/164513
 
-## Install
-
-See [installing a theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682).
+To install, see [installing a theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682).
 
 Once installed, add the theme component to a site's main theme.
