@@ -5,8 +5,8 @@ Also has an option to centre the main site logo in the header.
 
 <img src="https://github.com/user-attachments/assets/d3706ce0-e4a1-4e8b-a0a7-955af32cc5f4" width=60% />
 
+<img src="https://github.com/user-attachments/assets/59b9f12e-971a-4763-951d-d5dda68c80af" width=60% />
 
-<img src="https://github.com/user-attachments/assets/a1b458f9-860e-41a6-8c03-ca164da44ea8" width=60% />
 
 <p>
 
