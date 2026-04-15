@@ -15,4 +15,4 @@ For more info, see: https://meta.discourse.org/t/left-side-hamburger-menu-on-mob
 To install, see [installing a theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682).
 
 Once installed, add the theme component to a site's main theme. 
-Enable the `Center logo` setting if you want the main site logo centred in the header bar.
+Enable the `Center logo` setting if you want the main site logo centred in the mobile header bar.
