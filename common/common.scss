@@ -64,7 +64,7 @@
       grid-area: custom-header-icon-link-5;
     }
 
-    // some protection for text-only site titles
+    // ** Some protection for text-only site titles ** //
     .title {
       grid-area: logo;
       @if ($center_logo == 'true') {
@@ -74,7 +74,7 @@
     }
   }
 
-  // ** Centre site logo if `center_logo` setting is enabled ** 
+  // ** Centre site logo if `center_logo` setting is enabled ** /
 
   @if ($center_logo == 'true') {
     .d-header:not(:has(.extra-info-wrapper.topic-info-visible)):not(:has(.extra-info-wrapper .topic-link)):not(.header-topic-info-visible) .title {
