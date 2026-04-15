@@ -1,4 +1,4 @@
-# Discourse left side hamburger menu theme component
+# Discourse left side hamburger menu icon
 
 Discourse theme component that moves the hamburger menu bars icon to the left side in mobile to be consistent with desktop view. 
 <br />
